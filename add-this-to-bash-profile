@@ -1,0 +1,6 @@
+
+# --------------------------------------------------
+# ----------- filemaker by Luke Chikkala -----------
+# --------------------------------------------------
+alias filemaker='read -p "📝 Filename: " filename; touch $filename && "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" $filename'
+# --------------------------------------------------
